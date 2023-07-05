@@ -1,2 +1,2 @@
-# SatisOS 
-SatisOS は Debian 12 bookworm をベースに開発しているリマスタディストリビューションです．
+# SataliaOS
+SataliaOS = Debian 12 + i3wm + alpha
