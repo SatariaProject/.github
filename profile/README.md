@@ -1,2 +1,2 @@
-# SataliaOS
-SataliaOS = Debian 12 + i3wm + alpha
+# SatariaOS
+SatariaOS = Debian 12 + i3wm + alpha
